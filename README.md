@@ -38,27 +38,3 @@ Heart diseases continue to be a significant public health concern worldwide. Tha
 To replicate or explore this project, please make sure you have the required Python packages installed. You can install them using the provided requirements.txt file:
 - **pip install -r requirements.txt**
 
-## Streamlit Page
-
-As part of this project, an interactive web page has been created using the Streamlit tool. This page incorporates implemented machine learning models for predicting the risk of heart disease. It enables users to input relevant values and parameters, upon which predictions concerning the presence or absence of heart disease are generated.
-
-Page features:
-- **Data input form**: Users can input required values, such as age, blood pressure, cholesterol level, etc., which are necessary for prediction.
-- **Prediction**: The page employs implemented machine learning models to predict whether an individual is at risk of heart disease or not, based on the provided data.
-- **Aggregated chart**: The page generates an aggregated bar chart that illustrates the distribution of predictions across risk categories. This chart offers a swift overview of how algorithms assess the presence or absence of heart disease.
-
-Web page link: **https://heart-disease.streamlit.app**
-
-![alt text](https://github.com/MrDomian/Heart-Disease-Risk-Prediction/blob/main/Data/screen_streamlit_page.png)
-
-## Usage
-
-Feel free to explore the notebooks provided in this repository to gain insights into different aspects of the project, from data preparation to machine learning model evaluation. Your contributions to this project are more than welcome! If you have any suggestions, ideas, or feedback, please don't hesitate to open an issue or submit a pull request. Happy exploring!
-
-## Principal dataset researchers
-
-The heart disease dataset draws contributions from renowned medical institutions:
-1. Hungarian Institute of Cardiology, Budapest: Andras Janosi, M.D.
-2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
-3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
-4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
